@@ -41,8 +41,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## To Do
 
-- [ ] Level 1: Create a basic chatbot with hard coded responses
-- [ ] Level 2: Respond to the user intelligently using any Gen-AI model
+- [x] Level 1: Create a basic chatbot with hard coded responses
+- [x] Level 2: Respond to the user intelligently using any Gen-AI model
 - [ ] Level 3: Deploy your web-app to AWS EC2 Servers
 - [ ] Level 3.5: Respond to the user with LLMs through the AWS Bedrock API
 - [ ] Level 4: Implement RAG so the chatbot responds based on a given knowledge base
